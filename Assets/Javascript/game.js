@@ -1,8 +1,8 @@
 $(document).ready(function() {
   let firstNumber = Math.floor(Math.random() * Math.floor(100));
   let playerScore = 0;
-  let wins;
-  let losses;
+  let wins = 0;
+  let losses = 0;
 
   $("#greenBox").append("<h1>" + firstNumber + "</h1>");
 
