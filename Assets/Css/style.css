@@ -1,0 +1,47 @@
+#notreTitle {
+  width: 250px;
+  border: 15px solid #935313;
+  background-color: #935313;
+}
+#directions {
+  width: 500px;
+  height: 400px;
+  background-color: #ffeae0;
+}
+#greenBox {
+  width: 250px;
+  height: 125px;
+  background-color: #54bc74;
+}
+#tallyMarker {
+  height: 125px;
+  width: 100px;
+  background-color: rgb(0, 191, 255);
+}
+
+#redRuby,
+#blueDiamond,
+#yellowGem,
+#greenGem {
+  height: 125px;
+  width: 100px;
+  background-color: white;
+  display: inline-block;
+}
+#redRuby {
+  color: Red;
+}
+#blueDiamond {
+  color: blue;
+}
+#yellowGem {
+  color: yellow;
+}
+#greenGem {
+  color: green;
+}
+#scoreCount {
+  background-color: #54bc74;
+  height: 125px;
+  width: 175px;
+}
