@@ -1,0 +1,15 @@
+#notreTitle {
+  width: 250px;
+  border: 15px solid #935313;
+  background-color: #935313;
+}
+#directions {
+  width: 500px;
+  height: 400px;
+  background-color: #ffeae0;
+}
+#greenBox {
+  width: 250px;
+  height: 125px;
+  background-color: #54bc74;
+}
